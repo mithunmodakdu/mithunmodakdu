@@ -35,15 +35,47 @@ Pagination is applied at the bottom of this page. Every page has 6 apartments in
 Technology used in this project : React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, React-toastify, Sweetalert, Sweetalert2, React-datepicker, Axios, Tanstack/react-query, Stripe/react-stripe-js, Firebase, Express.js, Jsonwebtoken, MongoDB
 
 ### Study Online-A assignments based online study website
-Live Link: https://m11a11-online-group-study.web.app <br><br>
- It is an online study website where anyone can register and use its study process. He can create assignment, he can take assignment as examination, even he can be examiner of assignment. Any user can sign up and log in with email and password or google or GitHub. <br><br>
-Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, 
+Live Link: https://m11a11-online-group-study.web.app 
+* Study Online is a assignments based online study website. There anyone can register and use its study process. He can create assignment, he can take assignment as examination, even he can be examiner of assignment.
+
+* In this webpage, there are Home, All Assignment, Create Assignment, Submitted Assignment, My Assignment and Assignment Marks pages. Navbar and Footer are common for all pages. In the Home page there are banner, feature and FAQ parts.
+
+* In all assignment page, there are all assignments. Here assignments can be filtered by their difficulty level. A logged user can see details of a assignment clicking on view assignment button. A creator of a assignment can update and delete his created assignment.
+
+* On details of assignment page, user can take that assignment as examination. By clicking on take assignment button, he will go to submission assignment form page. There he can submitted his assignment as pdf link.
+
+* All submitted assignment will be shown on submitted page. There status of all assignments are pending. By clicking on Give marks button, any logged user can give marks to the assignment.
+
+* After giving marks to the assignment, its status will be changed into Completed.
+
+* On the My Assignment page, any logged user can see his all pending and completed assignments.
+
+* On the Assignment Marks page, all assignment(marks already given) will be shown.
+
+Technology used in this project : React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, 
 Express.js, Jsonwebtoken, MongoDB
+
 
 ### Auto Shop-A popular brands-based automobiles shop website
 Live Link: https://m10a10-brand-shop-client.web.app <br><br>
-It is website where anyone signed up and logged in with email and password or google or GitHub can purchase his desired brand automobiles. In this website new product can be added and existing product information can be updated <br><br>
-Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
+* In this project Navbar and Footer are common for all pages. By default Home page is opened. If we click on Add Product, My cart and Login, we will go to these pages respectively. In the Home page there are banner, about us, popular brands and why us parts.
+
+* On the add product page, we can add products to mongodb database. Brands name and brand images are also added to mongodb database and used to make brand cards.
+
+* If we click on the brand card, it will take us to the products page of that brand. On the products page there are slider of three advertisement image and cards of products. On the product card there are details and update button.
+
+* If we click on the details button, it will take us on the details page of product. There is Add to cart button. 
+
+* If we click on the add to cart button, product will be saved on the mongodb database and will be shown on the My cart page. User will get sweet alert message of adding to cart. Here user can delete product from the cart.
+
+* If we click on the Update button, it will take us to Update page. There we can update the information of product.
+
+* Add Product, Product details, My Cart, Update pages are in the protected route. User will not be able to see these pages unless he is logged in.
+
+* If use is logged in, user's name image and logout will be shown on the navbar.
+
+
+ Technology used in this project : React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
 
 # Contact me
 www.linkedin.com/in/mithun-kumer-modak-96a5a72a3
