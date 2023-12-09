@@ -3,6 +3,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithun4450&theme=transparent)](https://git.io/streak-stats)
 
 # My Skills 
+Experts : HTML5, CSS3, Tailwind CSS, DaisyUI, JavaScript (ES6), React, React Router
+Comfortable : Express.js, MongoDB, Firebase
+Familiar : Node.js, Stripe
+
+# Technology I use
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&perline=3)](https://skillicons.dev)
 
 # My Projects 
@@ -22,6 +27,8 @@ Express.js, Jsonwebtoken, MongoDB
 Live Link: https://m10a10-brand-shop-client.web.app <br><br>
 It is website where anyone signed up and logged in with email and password or google or GitHub can purchase his desired brand automobiles. In this website new product can be added and existing product information can be updated <br><br>
 Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
+
+
  
 
 
