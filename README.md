@@ -3,8 +3,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithun4450&theme=transparent)](https://git.io/streak-stats)
 
 # My Skills 
-Experts : HTML5, CSS3, Tailwind CSS, DaisyUI, JavaScript (ES6), React, React Router
-Comfortable : Express.js, MongoDB, Firebase
+Experts : HTML5, CSS3, Tailwind CSS, DaisyUI, JavaScript (ES6), React, React Router <br>
+Comfortable : Express.js, MongoDB, Firebase <br>
 Familiar : Node.js, Stripe
 
 # Technology I use
