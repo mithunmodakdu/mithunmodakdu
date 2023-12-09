@@ -14,9 +14,9 @@ Familiar : Node.js, Stripe
 
 ### Concord Palace-A Building Management Website
 Live Link: https://building-management-7b00e.web.app
-<br><br>
-* In this project Navbar, footer are common for all pages. In the home page there are banner, about the building, location of building, coupons sections. 
 
+* In this project Navbar, footer are common for all pages. In the home page there are banner, about the building, location of building, coupons sections.
+  
 * Navbar has  logo and website name, Home, Apartment, and conditional Login icon. If the user is logged in, his/her profile picture will appear on the navbar replacing the login icon. If the user clicks on the profile picture, a drop-down will appear with not clickable User name, Dashboard, and Logout button. 
 
 * In the banner part there are automatic slides of some beautiful images of the building and its apartment rooms. 
