@@ -29,7 +29,8 @@ It is website where anyone signed up and logged in with email and password or go
 Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
 
 # Contact me
-<www.linkedin.com/in/mithun-kumer-modak-96a5a72a3>
+www.linkedin.com/in/mithun-kumer-modak-96a5a72a3
+<br>
 <mithunmodakdu@gmail.com>
 
 
