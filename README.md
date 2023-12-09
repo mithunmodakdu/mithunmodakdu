@@ -14,9 +14,14 @@ Technology used in this project : React.js, React-Router, Tailwind CSS, DaisyUI,
 
 ### Study Online-A assignments based online study website
 Live Link: https://m11a11-online-group-study.web.app <br><br>
- It is an online study website where anyone can register and use its study process. He can create assignment, he can take assignment as examination, even he can be examiner of assignment. Any user can sign up and log in with email and password or google or GitHub <br><br>
+ It is an online study website where anyone can register and use its study process. He can create assignment, he can take assignment as examination, even he can be examiner of assignment. Any user can sign up and log in with email and password or google or GitHub. <br><br>
 Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, 
 Express.js, Jsonwebtoken, MongoDB
+
+### Auto Shop-A popular brands-based automobiles shop website
+Live Link: https://m10a10-brand-shop-client.web.app <br><br>
+It is website where anyone signed up and logged in with email and password or google or GitHub can purchase his desired brand automobiles. In this website new product can be added and existing product information can be updated <br><br>
+Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
  
 
 
