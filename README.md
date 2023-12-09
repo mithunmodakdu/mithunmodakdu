@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithun4450)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithun4450&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 **Mithun4450/Mithun4450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
