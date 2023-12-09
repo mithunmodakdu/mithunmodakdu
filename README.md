@@ -28,6 +28,10 @@ Live Link: https://m10a10-brand-shop-client.web.app <br><br>
 It is website where anyone signed up and logged in with email and password or google or GitHub can purchase his desired brand automobiles. In this website new product can be added and existing product information can be updated <br><br>
 Technology used in this project :  React.js, React-Router, Tailwind CSS, DaisyUI, React-Icons, Sweetalert, Firebase, Express.js, MongoDB
 
+# Contact me
+<www.linkedin.com/in/mithun-kumer-modak-96a5a72a3>
+<mithunmodakdu@gmail.com>
+
 
  
 
