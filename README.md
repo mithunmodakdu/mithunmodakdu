@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mithun4450&theme=transparent)](https://git.io/streak-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 <!--
 **Mithun4450/Mithun4450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
