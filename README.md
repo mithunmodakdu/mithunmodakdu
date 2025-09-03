@@ -1,6 +1,6 @@
 ![Example Image](https://github.com/Mithun4450/Mithun4450/blob/main/Banner.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithunmodakdu&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mithunmodakdu)](https://git.io/streak-stats)
 
 # My Skills 
 Experts : HTML5, CSS3, Tailwind CSS, DaisyUI, JavaScript (ES6), React, React Router <br>
