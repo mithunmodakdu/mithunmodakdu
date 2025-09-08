@@ -1,4 +1,4 @@
-![Example Image](https://github.com/mithunmodakdu/mithunmodakdu/blob/main/Banner.png)
+![Example Image](https://github.com/mithunmodakdu/mithunmodakdu/blob/main/banner.jpg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mithunmodakdu)](https://git.io/streak-stats)
 
